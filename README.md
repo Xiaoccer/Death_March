@@ -12,4 +12,4 @@
 
 ### 2020/07/01~
 * Review material:
-	* learn git from [ Learning Git Branching project](https://learngitbranching.js.org/?locale=zh_CN), and the note at [here](./tool/git_notes/git.md).
+	* learn git from [ Learning Git Branching project](https://learngitbranching.js.org/?locale=zh_CN), and the note at [here](./tools/git_notes/git.md).
