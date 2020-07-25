@@ -10,6 +10,13 @@
 * Review paper or Review material
 ****
 
-### 2020/07/01~
+### 2020/07/20~2020/07/25 (done)
+* Algorithm:
+	* [leetcode_752: Open the Lock](./alogrithm/leetcode/leetcode_752.md)
+* Write project:
+	* write a website according to the [MDS](https://developer.mozilla.org/zh-CN/docs/Learn/Getting_started_with_the_web), and the project at [here](https://github.com/Xiaoccer/Xiaoccer.github.io), the notes at [here](./web/web_site/note.md).
+* Read book:
+	*  《python编程：从入门到实践》：p1~p92.
+	*  《Linux高性能服务器编程》: p1~p37.
 * Review material:
 	* learn git from [ Learning Git Branching project](https://learngitbranching.js.org/?locale=zh_CN), and the note at [here](./tools/git_notes/git.md).
