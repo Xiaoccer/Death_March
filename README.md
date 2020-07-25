@@ -12,7 +12,7 @@
 
 ### 2020/07/20~2020/07/25 (done)
 * Algorithm:
-	* [leetcode_752: Open the Lock](./alogrithm/leetcode/leetcode_752.md)
+	* [leetcode_752: Open the Lock](./algorithm/leetcode/leetcode_752.md)
 * Write project:
 	* write a website according to the [MDS](https://developer.mozilla.org/zh-CN/docs/Learn/Getting_started_with_the_web), and the project at [here](https://github.com/Xiaoccer/Xiaoccer.github.io), the notes at [here](./web/web_site/note.md).
 * Read book:
