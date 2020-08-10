@@ -30,9 +30,9 @@
 	*  《python编程：从入门到实践》：p92~p150.
 	*  《Linux高性能服务器编程》: p37~p52.
 * Review material:
-	* read part of [Google Python Style Guide](https://github.com/google/styleguide/blob/gh-pages/pyguide.md)，note at [here](./cs-note/python/google_style_guide.md).
+	* read part of [Google Python Style Guide](https://github.com/google/styleguide/blob/gh-pages/pyguide.md)，notes at [here](./cs-note/python/google_style_guide.md).
 
-### 2020/08/03~2020/08/10 (done)
+### 2020/08/03~2020/08/09 (done)
 * Alogrithm:
 	* [leetcode 76: Minimum Window Substring](./algorithm/leetcode/leetcode_76.md)
 * Write project:
@@ -41,4 +41,4 @@
 	*  《python编程：从入门到实践》：p150~p217.
 	*  《Linux高性能服务器编程》: p52~p87.
 * Review material:
-	* review the article  [The Key To Accelerating Your Coding Skills](http://blog.thefirehoseproject.com/posts/learn-to-code-and-be-self-reliant/)
+	* review the article  [The Key To Accelerating Your Coding Skills](http://blog.thefirehoseproject.com/posts/learn-to-code-and-be-self-reliant/), notes at [here](./cs-note/notes.md).
