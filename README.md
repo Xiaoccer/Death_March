@@ -14,7 +14,7 @@
 * Algorithm:
 	* [leetcode_752: Open the Lock](./algorithm/leetcode/leetcode_752.md)
 * Write project:
-	* write a website according to the [MDS](https://developer.mozilla.org/zh-CN/docs/Learn/Getting_started_with_the_web), and the project at [here](https://github.com/Xiaoccer/Xiaoccer.github.io), the notes at [here](./cs-note/web/web_site/note.md).
+	* write a website according to the [MDS](https://developer.mozilla.org/zh-CN/docs/Learn/Getting_started_with_the_web), and the project at [here](https://github.com/Xiaoccer/Xiaoccer.github.io), [notes](./cs-note/web/web_site/note.md).
 * Read book:
 	*  《python编程：从入门到实践》：p1~p92.
 	*  《Linux高性能服务器编程》: p1~p37.
@@ -30,7 +30,7 @@
 	*  《python编程：从入门到实践》：p92~p150.
 	*  《Linux高性能服务器编程》: p37~p52.
 * Review material:
-	* read part of [Google Python Style Guide](https://github.com/google/styleguide/blob/gh-pages/pyguide.md)，notes at [here](./cs-note/python/google_style_guide.md).
+	* read part of [Google Python Style Guide](https://github.com/google/styleguide/blob/gh-pages/pyguide.md)，[notes](./cs-note/python/google_style_guide.md).
 
 ### 2020/08/03~2020/08/09 (done)
 * Alogrithm:
@@ -41,4 +41,16 @@
 	*  《python编程：从入门到实践》：p150~p217.
 	*  《Linux高性能服务器编程》: p52~p87.
 * Review material:
-	* review the article  [The Key To Accelerating Your Coding Skills](http://blog.thefirehoseproject.com/posts/learn-to-code-and-be-self-reliant/), notes at [here](./cs-note/notes.md).
+	* review the article  [The Key To Accelerating Your Coding Skills](http://blog.thefirehoseproject.com/posts/learn-to-code-and-be-self-reliant/), [notes](./cs-note/notes.md).
+
+
+### 2020/08/10~2020/08/16(done)
+* Alogrithm:
+	* [leetcode 3. Longest Substring Without Repeating Characters](./algorithm/leetcode/leetcode_3.md)
+* Write project:
+	* deploy the toy web appliction--[Learning_logs](https://github.com/Xiaoccer/Python-Crash-Course-Projects/tree/master/learning_log) to the Heroku, and the website is [http://xiaoc-learning-log.herokuapp.com](http://xiaoc-learning-log.herokuapp.com).
+* Read book:
+	* 《python编程：从入门到实践》：p217~p224.（done, [notes](./cs-note/python/python_notes.md)）
+	* 《Linux高性能服务器编程》：p87~p115.
+* Review material:
+	* 技术复盘，[notes](./cs-note/notes.md).
