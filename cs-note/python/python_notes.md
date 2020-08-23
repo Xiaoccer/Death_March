@@ -86,7 +86,6 @@ requests.get(url)
 5. `time.strptime()`把一个时间字符串按某种格式转换为struct_time
 6. `datetime.strptime()`把一个时间字符串按某种格式转化为datetime类型和`datetime.strftime()`相反。
 7. `datetime.formtimestamp(t)`把一个Unix时间戳转化成datetime类型。
-
-
+8. `time.mktime()`根据struct_time转化为unix时间戳。
 
 

@@ -54,3 +54,13 @@
 	* 《Linux高性能服务器编程》：p87~p115.
 * Review material:
 	* 技术复盘，[notes](./cs-note/notes.md).
+
+### 2020/08/17~2020/08/23(done)
+* Alogrithm:
+	* [leetcode 581. Shortest Unsorted Continuous Subarray](./algorithm/leetcode/leetcode_581.md)
+* Write project:
+	* config something to help log in the remote machine in the convenience, [note](./cs-note/config_notes.md)
+* Read book:
+	* 《Linxu高性能服务器编程》：p115~p135.
+* Review material:
+	* [Linux教程](https://www.w3cschool.cn/linux/)
