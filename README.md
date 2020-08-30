@@ -19,7 +19,7 @@
 	*  《python编程：从入门到实践》：p1~p92.
 	*  《Linux高性能服务器编程》: p1~p37.
 * Review material:
-	* learn git from [ Learning Git Branching project](https://learngitbranching.js.org/?locale=zh_CN), and the note at [here](./tools/git_notes/git.md).
+	* learn git from [ Learning Git Branching project](https://learngitbranching.js.org/?locale=zh_CN), and the [notes](./tools/git_notes/git.md).
 
 ### 2020/07/26~2020/08/02 (done)
 * Alogrithm:
@@ -59,8 +59,21 @@
 * Alogrithm:
 	* [leetcode 581. Shortest Unsorted Continuous Subarray](./algorithm/leetcode/leetcode_581.md)
 * Write project:
-	* config something to help log in the remote machine in the convenience, [note](./cs-note/config_notes.md)
+	* config something to help log in the remote machine in the convenience, [notes](./cs-note/config_notes.md)
 * Read book:
 	* 《Linxu高性能服务器编程》：p115~p135.
 * Review material:
 	* [Linux教程](https://www.w3cschool.cn/linux/)
+
+### 2020/08/24/~2020/08/30(done)
+* Alogrithm:
+	* [1379. Find a Corresponding Node of a Binary Tree in a Clone of That Tree](./algorithm/leetcode/leetcode_1379.md)
+* Read Source code:
+	* try to read the `select.c` source code , refs.(https://blog.nowcoder.net/n/fbac45d4d150401e8d7522755924858d, https://www.jianshu.com/p/95b50b026895, 
+https://blog.csdn.net/zhougb3/article/details/79792089,
+http://gityuan.com/2019/01/05/linux-poll-select/,
+https://www.jianshu.com/p/da6642369ef0)
+* Read book:
+	* 《Linxu高性能服务器编程》：p136~p162.
+* Review material:
+	* 《git图文教程及详解》(https://www.jianshu.com/p/1b65ed31da97), [notes](./tools/git_notes/git.md).

@@ -76,3 +76,39 @@
 
 * # 追踪分支
 	* `git checkout -b newMaster o/master`，先建追踪远程分支。或在当前分支上运行`git branch -u o/master`。
+
+# 《git图文教程及详解》
+* # 版本回退
+	1. `git log –pretty=oneline`简要查看git历史的命名。
+	2. `git reset –hard HEAD^(或版本号)`
+* # 撤销修改
+`git checkout -- 文件`， 撤销有两种情况：
+	
+1. 文件修改后，还没有放到暂存区，使用撤销修改就回到和版本库一模一样的状态。
+2. 文件修改后已经放入暂存区了，接着又作了修改，撤销修改就回到添加暂存区后的状态。
+
+* # 远程相关
+* 将本地仓库与远程仓库关联：`git remote add origin 远程地址`
+* 推送到远程仓库：`git push -u origin master`。由于远程库是空的，首次推送master分支时，加上了–u参数，Git不但会把本地的master分支内容推送的远程新的master分支，还会把本地的master分支和远程的master分支关联起来。
+
+* # 分支相关
+* 相关命令：
+	* 查看分支：git branch
+	* 创建分支：git branch name
+	* 切换分支：git checkout name
+	* 创建+切换分支：git checkout –b name
+	* 合并某分支到当前分支：git merge name
+	* 删除分支：git branch –d name
+* 合并分支时，git默认使用fast forward模式， 在这种模式下，删除分支后，会丢掉分支信息。所以可以使用带参数的merge，如`git merge –no-ff -m “注释” dev`
+* bug分支：
+	1. 先在dev分支使用`git stash`保存现场，
+	2. 切换到master分支，然后创建bug临时分支，修复bug。
+	3. 切换到master分支合并bug分支，并删除bug分支。
+	4. 切换到dev分支，使用`git stash pop`恢复现场。
+* 多人协作
+	1. 要查看远程库的信息 使用 `git remote`/`git remote –v`
+	2. 推送dev分支，`git push origin dev`。
+	3. 那么一般情况下，那些分支要推送呢？（1）master分支是主分支，因此要时刻与远程同步。（2）一些修复bug分支不需要推送到远程去，可以先合并到主分支上，然后把主分支master推送到远程去。
+* 抓取分支：
+	1. 在本地拉取远程的dev分支：`git checkout –b dev origin/dev`，然后进行修改与push。
+	2. 若其他人也修改了dev分支，则需要先pull分支进行冲突修改，然后再push。
