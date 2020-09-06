@@ -77,3 +77,13 @@ https://www.jianshu.com/p/da6642369ef0)
 	* 《Linxu高性能服务器编程》：p136~p162.
 * Review material:
 	* 《git图文教程及详解》(https://www.jianshu.com/p/1b65ed31da97), [notes](./tools/git_notes/git.md).
+
+### 2020/08/25/~2020/09/06(done)
+* Alogrithm:
+	* [114. Flatten Binary Tree to Linked List](./algorithm/leetcode/leetcode_114.md)
+* Read Source code:
+	* read the `cache.cc` code of leveldb. 
+* Read book:
+	* 《Linxu高性能服务器编程》：p162~p183.
+* Review material:
+	* [Linux教程](https://www.w3cschool.cn/linux/),  [notes] (./cs-note/linux/《linux教程》.md).
