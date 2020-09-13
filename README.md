@@ -61,7 +61,7 @@
 * Write project:
 	* config something to help log in the remote machine in the convenience, [notes](./cs-note/config_notes.md)
 * Read book:
-	* 《Linxu高性能服务器编程》：p115~p135.
+	* 《Linux高性能服务器编程》：p115~p135.
 * Review material:
 	* [Linux教程](https://www.w3cschool.cn/linux/)
 
@@ -74,7 +74,7 @@ https://blog.csdn.net/zhougb3/article/details/79792089,
 http://gityuan.com/2019/01/05/linux-poll-select/,
 https://www.jianshu.com/p/da6642369ef0)
 * Read book:
-	* 《Linxu高性能服务器编程》：p136~p162.
+	* 《Linux高性能服务器编程》：p136~p162.
 * Review material:
 	* 《git图文教程及详解》(https://www.jianshu.com/p/1b65ed31da97), [notes](./tools/git_notes/git.md).
 
@@ -84,6 +84,16 @@ https://www.jianshu.com/p/da6642369ef0)
 * Read Source code:
 	* read the `cache.cc` code of leveldb. 
 * Read book:
-	* 《Linxu高性能服务器编程》：p162~p183.
+	* 《Linux高性能服务器编程》：p162~p183.
 * Review material:
 	* [Linux教程](https://www.w3cschool.cn/linux/),  [notes] (./cs-note/linux/《linux教程》.md).
+
+### 2020/0907/25/~2020/09/13(done)
+* Alogrithm:
+  * [146. LRU Cache](./algorithm/leetcode/leetcode_146.md)
+* Read Source code:
+	* `cache.cc` of leveldb and do some notes.
+* Read book:
+	* 《Linux高性能服务器编程》：p183~p211.
+* Review material:
+	* [Linux网络性能调整](zorrozou.github.io)，[notes]((./cs-note/linux/linux网络性能调整.md)
