@@ -76,7 +76,7 @@ https://www.jianshu.com/p/da6642369ef0)
 * Read book:
 	* 《Linux高性能服务器编程》：p136~p162.
 * Review material:
-	* 《git图文教程及详解》(https://www.jianshu.com/p/1b65ed31da97), [notes](./tools/git_notes/git.md).
+	* [git图文教程及详解](https://www.jianshu.com/p/1b65ed31da97), [notes](./tools/git_notes/git.md).
 
 ### 2020/08/25/~2020/09/06(done)
 * Alogrithm:
@@ -86,9 +86,9 @@ https://www.jianshu.com/p/da6642369ef0)
 * Read book:
 	* 《Linux高性能服务器编程》：p162~p183.
 * Review material:
-	* [Linux教程](https://www.w3cschool.cn/linux/),  [notes] (./cs-note/linux/《linux教程》.md).
+	* [Linux教程](https://www.w3cschool.cn/linux/),  [notes](./cs-note/linux/《linux教程》.md).
 
-### 2020/0907/25/~2020/09/13(done)
+### 2020/09/07/~2020/09/13(done)
 * Alogrithm:
   * [146. LRU Cache](./algorithm/leetcode/leetcode_146.md)
 * Read Source code:
@@ -96,4 +96,15 @@ https://www.jianshu.com/p/da6642369ef0)
 * Read book:
 	* 《Linux高性能服务器编程》：p183~p211.
 * Review material:
-	* [Linux网络性能调整](zorrozou.github.io)，[notes]((./cs-note/linux/linux网络性能调整.md)
+	* [Linux网络性能调整](zorrozou.github.io)，[notes](./cs-note/linux/linux网络性能调整.md)
+
+### 2020/09/14/~2020/09/20(done)
+* Alogrithm:
+  * [139. Word Break](./algorithm/leetcode/leetcode_139.md)
+* Read Source code:
+	* `memtable.cc` of leveldb.
+* Read book:
+	* 《Linux高性能服务器编程》：p211~p283.
+* Review material:
+	* [Learning C++ Best Practices](https://www.oreilly.com/library/view/learning-c-best/): part1~2.
+
