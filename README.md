@@ -76,7 +76,7 @@ https://www.jianshu.com/p/da6642369ef0)
 * Read book:
 	* 《Linux高性能服务器编程》：p136~p162.
 * Review material:
-	* [git图文教程及详解](https://www.jianshu.com/p/1b65ed31da97), [notes](./tools/git_notes/git.md).
+	* [git图文教程及详解](https://www.jianshu.com/p/1b65ed31da97)，[notes](./tools/git_notes/git.md).
 
 ### 2020/08/25/~2020/09/06(done)
 * Alogrithm:
@@ -86,7 +86,7 @@ https://www.jianshu.com/p/da6642369ef0)
 * Read book:
 	* 《Linux高性能服务器编程》：p162~p183.
 * Review material:
-	* [Linux教程](https://www.w3cschool.cn/linux/),  [notes](./cs-note/linux/《linux教程》.md).
+	* [Linux教程](https://www.w3cschool.cn/linux/)， [notes](./cs-note/linux/《linux教程》.md).
 
 ### 2020/09/07/~2020/09/13(done)
 * Alogrithm:
@@ -96,7 +96,7 @@ https://www.jianshu.com/p/da6642369ef0)
 * Read book:
 	* 《Linux高性能服务器编程》：p183~p211.
 * Review material:
-	* [Linux网络性能调整](zorrozou.github.io)，[notes](./cs-note/linux/linux网络性能调整.md)
+	* [Linux网络性能调整](zorrozou.github.io)，[notes](./cs-note/linux/linux网络性能调整.md).
 
 ### 2020/09/14/~2020/09/20(done)
 * Alogrithm:
@@ -107,4 +107,15 @@ https://www.jianshu.com/p/da6642369ef0)
 	* 《Linux高性能服务器编程》：p211~p283.
 * Review material:
 	* [Learning C++ Best Practices](https://www.oreilly.com/library/view/learning-c-best/): part1~2.
+
+### 2020/09/21/~2020/09/27(done)
+*  Alogrithm:
+  *  [152. Maximum Product Subarray](./algorithm/leetcode/leetcode_152_.md)
+*  Read Source code:
+	* `comparator.cc`、`coding.cc` of leveldb.
+*  Read book:
+	* 《Linux高性能服务器编程》：p283~p289.
+* Review material:
+	* 公司内部Python编程规范资料。
+
 
